@@ -2,7 +2,7 @@
 
 ### Easy
 - 290 (done)
-- 13
+- 13 (done)
 - 1 (done)
 - 242 (done)
 - 202 (done)
