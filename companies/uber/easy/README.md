@@ -10,7 +10,7 @@
 - 155 (done)
 - 121 (done)
 - 125 (done)
-- 266 (lock)
+- 266 (locked)
 - 733 (done)
 - 104 (done)
 - 171 (done)
