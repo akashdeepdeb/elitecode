@@ -5,15 +5,15 @@
 - 380 (done)
 - 254 (locked)
 - 36 (done)
-- 636 ()
-- 139 ()
+- 636 () - simple stack scheduling
+- 139 () - optimal word break?
 - 692 (done) https://leetcode.com/articles/top-k-frequent-words/
 - 17 (done)
 - 49 (done) https://leetcode.com/articles/group-anagrams/
 - 648 (done) https://leetcode.com/problems/replace-words/discuss/
 - 249 (locked)
-- 22 ()
-- 54 (complicated indexing)
+- 22 () - not sure? stack problem?
+- 54 () - complicated indexing
 - 133 () - how to clone graph?
 - 535 () - how to make an effective hashing function?
 - 450 

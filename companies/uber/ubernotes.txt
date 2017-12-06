@@ -1,0 +1,13 @@
+Important links to look at:
+
+- 534 (done) https://leetcode.com/problems/design-tinyurl/discuss/
+- 692 (done) https://leetcode.com/articles/top-k-frequent-words/
+- 49 (done) https://leetcode.com/articles/group-anagrams/
+- 648 (done) https://leetcode.com/problems/replace-words/discuss/
+- pythonista -  http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
+- cloning linked list/tree/graph
+    http://www.geeksforgeeks.org/clone-linked-list-next-arbit-pointer-set-2/
+    http://www.geeksforgeeks.org/clone-binary-tree-random-pointers/
+    http://www.geeksforgeeks.org/clone-an-undirected-graph/
+
+- 
