@@ -1,8 +1,8 @@
 ## Question IDs (ordered by decreasing frequency of appearance in interviews)
 
 ### Medium
-- 534
-- 380
+- 534 (interesting | not coding)
+- 380 (done)
 - 254 (locked)
 - 36
 - 636
