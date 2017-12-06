@@ -8,8 +8,8 @@
 - 636 ()
 - 139 ()
 - 692 (done) https://leetcode.com/articles/top-k-frequent-words/
-- 17
-- 49
+- 17 (done)
+- 49 (done) https://leetcode.com/articles/group-anagrams/
 - 648
 - 249 (locked)
 - 22
